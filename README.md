@@ -1,4 +1,1 @@
-hostname
-
-# Jenkins_integration
-Jenkins pipeline building
+netstat -ano|find "8080"
